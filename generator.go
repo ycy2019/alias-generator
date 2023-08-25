@@ -1,4 +1,4 @@
-package aliasGenerator
+package alias
 
 import (
 	_ "embed"
